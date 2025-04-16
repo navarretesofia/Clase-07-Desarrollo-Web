@@ -1,42 +1,42 @@
 [
   {
     "Nombre": "Pipistrel Alpha Trainer",
-    "Tamaño": "6,5",
-    "Comparación": "12,92307692"
+    "Tamao": 6.5,
+    "Comparacion": 12.92307692
   },
   {
     "Nombre": "Cessna 172 Skyhawk",
-    "Tamaño": "8,3",
-    "Comparación": "10,12048193"
+    "Tamano": 8.3,
+    "Comparacion": 10.12048193
   },
   {
     "Nombre": "Pilatus PC-12",
-    "Tamaño": "14,4",
-    "Comparación": "5,833333333"
+    "Tamano": 14.4,
+    "Comparacion": 5.833333333
   },
   {
     "Nombre": "Embraer ERJ 145",
-    "Tamaño": "29,9",
-    "Comparación": "2,809364548"
+    "Tamano": 29.9,
+    "Comparacion": 2.809364548
   },
   {
     "Nombre": "Airbus A320",
-    "Tamaño": "37,6",
-    "Comparación": "2,234042553"
+    "Tamano": 37.6,
+    "Comparacion": 2.234042553
   },
   {
     "Nombre": "Boeing 777-300ER",
-    "Tamaño": "73,9",
-    "Comparación": "1,136671177"
+    "Tamano": 73.9,
+    "Comparacion": 1.136671177
   },
   {
     "Nombre": "Lockheed C-5 Galaxy",
-    "Tamaño": "75,3",
-    "Comparación": "1,115537849"
+    "Tamano": 75.3,
+    "Comparacion": 1.115537849
   },
   {
     "Nombre": "Antonov An-225 Mriya",
-    "Tamaño": 84,
-    "Comparación": 1
+    "Tamano": 84,
+    "Comparacion": 1
   }
 ]
