@@ -1,0 +1,42 @@
+[
+  {
+    "Avion": "Pipistrel Alpha Trainer",
+    "Tamano": 6.5,
+    "Comparacion": 12.92307692
+  },
+  {
+    "Avion": "Cessna 172 Skyhawk",
+    "Tamano": 8.3,
+    "Comparacion": 10.12048193
+  },
+  {
+    "Avion": "Pilatus PC-12",
+    "Tamano": 14.4,
+    "Comparacion": 5.833333333
+  },
+  {
+    "Avion": "Embraer ERJ 145",
+    "Tamano": 29.9,
+    "Comparacion": 2.809364548
+  },
+  {
+    "Avion": "Airbus A320",
+    "Tamano": 37.6,
+    "Comparacion": 2.234042553
+  },
+  {
+    "Avion": "Boeing 777-300ER",
+    "Tamano": 73.9,
+    "Comparacion": 1.136671177
+  },
+  {
+    "Avion": "Lockheed C-5 Galaxy",
+    "Tamano": 75.3,
+    "Comparacion": 1.115537849
+  },
+  {
+    "Avion": "Antonov An-225 Mriya",
+    "Tamano": 84,
+    "Comparacion": 1
+  }
+]
